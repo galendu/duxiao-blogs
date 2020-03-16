@@ -1,6 +1,6 @@
 # Table of contents
 
-* [个人介绍](README.md)
+* [首页](README.md)
 
 ## 服务
 
