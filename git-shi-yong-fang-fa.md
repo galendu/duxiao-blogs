@@ -41,3 +41,9 @@ git push -u origin --all
 git push -u origin --tags
 ```
 
+**常见问题处理命令**
+
+```
+1.git pull origin master --allow-unrelated-histories //把远程仓库和本地同步，消除差异
+2.git push -f origin master //强制上传并覆盖
+```
