@@ -4,8 +4,6 @@ description: 现在已经成为过去，过去已经失去 ，未来已经成为
 
 # 个人介绍
 
-![](.gitbook/assets/wei-xin-tu-pian-20200316165537.jpg)
-
 ## jenkins学习推荐
 
 ![](.gitbook/assets/jenkins.jpg)
