@@ -8,4 +8,5 @@
 * [查询域名解析](fu-wu/cha-xun-yu-ming-jie-xi.md)
 * [vpn搭建使用](fu-wu/vpn.md)
 * [git使用方法](fu-wu/git-shi-yong-fang-fa.md)
+* [rabbitmq集群搭建](rabbitmq-ji-qun-da-jian.md)
 
