@@ -29,11 +29,11 @@ PRE_REGISTER="镜像地址"
 docker login --username=$REGISTRY_USER --password=$REGISTRY_PASSWORD $PRE_REGISTER && echo "登录阿里云仓库成功"
 echo "******************************************************************************"
 echo "开始docker化xx模块"
-docker build -t $PRE_REGISTER/vip-bitqq-qqcmall/qqcmall-admin:xx-job . && echo "docker化成功"
+docker build -t $PRE_REGISTER/xx/xx:$VERSION . && echo "docker化成功"
 echo "开始推送xx镜像"
-docker push $PRE_REGISTER/模块名称/模块名称:$VERSION && echo "推送成功！"
+docker push $PRE_REGISTER/xx/xx:$VERSION && echo "推送成功！"
 docker rm -f xx
-docker run -itd --name xx --network host --restart=always -v /app/logs:/app/logs $PRE_REGISTER/模块名称/模块名称:$VERSION
+docker run -itd --name xx --network host --restart=always -v /app/logs:/app/logs $PRE_REGISTER/xx/xx:$VERSION
 echo "******************************************************************************"
 echo "=============== 开始部署到正式环境  ==============="
 echo "$VERHISTORY$VERSION" >> versionhistory.txt
