@@ -18,7 +18,7 @@ ADD xx.jar /app/xx/xx.jar
 ENTRYPOINT exec java $JAVA_OPTS -jar -Duser.timezone=GMT+08 /app/xx/xx.jar
 ```
 
-### 2.编写启动脚本
+### 2.编写启动脚本restart.sh
 
 ```text
 #!/bin/bash
@@ -38,5 +38,11 @@ echo "**************************************************************************
 echo "=============== 开始部署到正式环境  ==============="
 echo "$VERHISTORY$VERSION" >> versionhistory.txt
 echo "版本号已经记录!"
+```
+
+### 3.启动服务
+
+```text
+bash restart.sh
 ```
 
