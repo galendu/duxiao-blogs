@@ -9,4 +9,5 @@
 * [vpn搭建使用](fu-wu/vpn.md)
 * [git使用方法](fu-wu/git-shi-yong-fang-fa.md)
 * [rabbitmq集群搭建](fu-wu/rabbitmq-ji-qun-da-jian.md)
+* [docker部署java服务](docker-bu-shu-java-fu-wu.md)
 
