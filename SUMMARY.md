@@ -1,6 +1,6 @@
 # Table of contents
 
-* [关于我](README.md)
+* [关于我👀](README.md)
 * [os4top16的GitHub](https://github.com/os4top16)
 
 ## linux
