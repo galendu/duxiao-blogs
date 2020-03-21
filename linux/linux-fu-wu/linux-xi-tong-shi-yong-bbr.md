@@ -2,7 +2,7 @@
 description: 部署最新版内核，开启TCP BBR 加速
 ---
 
-# linux系统使用bbr
+# linux系统使用bbr🔥✌🏼
 
 {% hint style="success" %}
 BBR是Google开发的一种新的拥塞控制算法

@@ -6,7 +6,7 @@
 
 * [linux服务](linux/linux-fu-wu/README.md)
   * [使用docker部署jetbrains/teamcity-server](linux/linux-fu-wu/shi-yong-docker-bu-shu-jetbrainsteamcityserver.md)
-  * [linux系统使用bbr](linux/linux-fu-wu/linux-xi-tong-shi-yong-bbr.md)
+  * [linux系统使用bbr🔥✌🏼](linux/linux-fu-wu/linux-xi-tong-shi-yong-bbr.md)
   * [docker部署java服务](linux/linux-fu-wu/docker-bu-shu-java-fu-wu.md)
   * [rabbitmq集群搭建](linux/linux-fu-wu/rabbitmq-ji-qun-da-jian.md)
   * [vpn搭建使用](linux/linux-fu-wu/vpn.md)
