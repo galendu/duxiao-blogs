@@ -4,9 +4,15 @@ description: 记录一些东西，为了方便查阅
 
 # 关于我👀
 
-## 前言
+   &lt;center&gt;测试&lt;/center&gt;
 
-关于我
+
+
+![](https://tse2-mm.cn.bing.net/th?id=OIP.rF3VYN1CRvtyWBPU0I7kyQDMEy&p=0&pid=1.1)
+
+![](https://tse2-mm.cn.bing.net/th?id=OIP.rF3VYN1CRvtyWBPU0I7kyQDMEy&p=0&pid=1.1) 
+
+
 
 ## 她说 
 
