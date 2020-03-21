@@ -1,7 +1,7 @@
 # Table of contents
 
 * [首页](README.md)
-* [GitHub](https://github.com/os4top16)
+* [os4top16的GitHub](https://github.com/os4top16)
 
 ## linux
 
