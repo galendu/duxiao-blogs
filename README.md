@@ -1,6 +1,6 @@
 # 关于我👀
 
-{% hint style="info" %}
+{% hint style="success" %}
 前言
 {% endhint %}
 
