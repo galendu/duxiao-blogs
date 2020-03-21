@@ -1,10 +1,16 @@
 ---
-description: 记录一些东西，为了方便查阅
+description: 我叫杜潇
 ---
 
 # 关于我👀
 
-<center>前言</center>
+## 前言
+
+关于我
+
+
+
+
 
 
 
