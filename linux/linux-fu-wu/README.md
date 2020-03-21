@@ -13,9 +13,9 @@
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p>1.&#x4F7F;&#x7528;docker&#x90E8;&#x7F72;teamcity&#x670D;&#x52A1;</p>
-        <p>2.&#x4F7F;&#x7528;docker&#x90E8;&#x7F72;java&#x670D;&#x52A1;</p>
-        <p>3.&#x4F7F;&#x7528;docker&#x90E8;&#x7F72;rabbitmq&#x96C6;&#x7FA4;</p>
+        <p>&#x90E8;&#x7F72;teamcity&#x670D;&#x52A1;</p>
+        <p>&#x90E8;&#x7F72;java&#x670D;&#x52A1;</p>
+        <p>&#x90E8;&#x7F72;rabbitmq&#x96C6;&#x7FA4;</p>
       </td>
       <td style="text-align:left">linux&#x7CFB;&#x7EDF;&#x4F7F;&#x7528;bbr&#x8FDB;&#x884C;tcp&#x52A0;&#x901F;</td>
       <td
