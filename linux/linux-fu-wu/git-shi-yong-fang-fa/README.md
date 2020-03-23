@@ -1,3 +1,7 @@
+---
+description: 适用于git、github、gitlab
+---
+
 # git使用方法
 
 **Git 全局设置**
