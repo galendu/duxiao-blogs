@@ -1,7 +1,7 @@
 # Table of contents
 
 * [关于我👀](README.md)
-* [os4top16的GitHub](https://app.gitbook.com/@1610469455/s/linux/)
+* [gitbook](https://app.gitbook.com/@1610469455/s/linux/)
 
 ## linux
 
