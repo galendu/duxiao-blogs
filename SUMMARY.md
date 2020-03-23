@@ -14,7 +14,7 @@
   * [查询域名解析](linux/linux-fu-wu/cha-xun-yu-ming-jie-xi/README.md)
     * [阶段一](linux/linux-fu-wu/cha-xun-yu-ming-jie-xi/ce-shi-1/README.md)
       * [阶段二](linux/linux-fu-wu/cha-xun-yu-ming-jie-xi/ce-shi-1/jie-duan-er.md)
-  * [git使用方法](linux/linux-fu-wu/git-shi-yong-fang-fa/README.md)
+  * [✨git使用方法](linux/linux-fu-wu/git-shi-yong-fang-fa/README.md)
     * [gitlab导入git bundle文件](linux/linux-fu-wu/git-shi-yong-fang-fa/gitlab-dao-ru-git-bundle-wen-jian.md)
 
 ## windows
