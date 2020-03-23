@@ -46,3 +46,5 @@ git push -u origin --tags
 2.git push -f origin master //强制上传并覆盖
 ```
 
+## [gitlab中导入\*.bundle文件](gitlab-dao-ru-git-bundle-wen-jian.md)
+
