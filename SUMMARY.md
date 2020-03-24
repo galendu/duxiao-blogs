@@ -3,11 +3,6 @@
 * [关于我👀](README.md)
 * [gitbook](https://app.gitbook.com/@1610469455/s/linux/)
 
-## 情殇王子
-
-* [情殇王子](qing-shang-wang-zi/qing-shang-wang-zi/README.md)
-  * [情殇王子的小弟](qing-shang-wang-zi/qing-shang-wang-zi/qing-shang-wang-zi-de-xiao-di.md)
-
 ## linux
 
 * [linux服务](linux/linux-fu-wu/README.md)
@@ -24,6 +19,7 @@
 
 ## windows
 
+* [Windows10中这个被冷落的功能，用好了却可以极大提升你的效率](windows/windows10-chang-yong-kuai-jie-jian.md)
 * [网站收录](windows/wang-zhan-shou-lu/README.md)
   * [如何让你的网站被百度收录](windows/wang-zhan-shou-lu/bai-du-shou-lu.md)
   * [google收录](windows/wang-zhan-shou-lu/google-shou-lu.md)
