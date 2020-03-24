@@ -42,3 +42,7 @@
 
 * [gitlab](devops/gitlab.md)
 
+## 情殇王子
+
+* [情殇王子](qing-shang-wang-zi/qing-shang-wang-zi.md)
+
