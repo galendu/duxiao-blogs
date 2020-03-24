@@ -3,6 +3,11 @@
 * [关于我👀](README.md)
 * [gitbook](https://app.gitbook.com/@1610469455/s/linux/)
 
+## 情殇王子
+
+* [情殇王子](qing-shang-wang-zi/qing-shang-wang-zi/README.md)
+  * [情殇王子的小弟](qing-shang-wang-zi/qing-shang-wang-zi/qing-shang-wang-zi-de-xiao-di.md)
+
 ## linux
 
 * [linux服务](linux/linux-fu-wu/README.md)
@@ -41,9 +46,4 @@
 ## devops
 
 * [gitlab](devops/gitlab.md)
-
-## 情殇王子
-
-* [情殇王子](qing-shang-wang-zi/qing-shang-wang-zi/README.md)
-  * [情殇王子的小弟](qing-shang-wang-zi/qing-shang-wang-zi/qing-shang-wang-zi-de-xiao-di.md)
 
