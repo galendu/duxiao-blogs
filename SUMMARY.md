@@ -19,6 +19,7 @@
 
 ## windows
 
+* [安装choco服务](windows/an-zhuang-choco-fu-wu.md)
 * [Windows10中这个被冷落的功能，用好了却可以极大提升你的效率](windows/windows10-chang-yong-kuai-jie-jian.md)
 * [网站收录](windows/wang-zhan-shou-lu/README.md)
   * [如何让你的网站被百度收录](windows/wang-zhan-shou-lu/bai-du-shou-lu.md)
