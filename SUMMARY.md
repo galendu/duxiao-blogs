@@ -15,6 +15,7 @@
     * [阶段一](linux/linux-fu-wu/cha-xun-yu-ming-jie-xi/ce-shi-1/README.md)
       * [阶段二](linux/linux-fu-wu/cha-xun-yu-ming-jie-xi/ce-shi-1/jie-duan-er.md)
   * [✨git使用方法](linux/linux-fu-wu/git-shi-yong-fang-fa/README.md)
+    * [Git 拉取项目中指定文件或文件夹](linux/linux-fu-wu/git-shi-yong-fang-fa/git-la-qu-xiang-mu-zhong-zhi-ding-wen-jian-huo-wen-jian-jia.md)
     * [gitlab导入git bundle文件](linux/linux-fu-wu/git-shi-yong-fang-fa/gitlab-dao-ru-git-bundle-wen-jian.md)
 
 ## windows

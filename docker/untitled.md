@@ -45,6 +45,6 @@ CMD ["/usr/local/bin/uwsgi", "--ini=/etc/uwsgi/uwsgi . ini", "--die-on-term" ，
 ```
 
 ```text
-
+。。。。。。。。。。。。。。。更新中
 ```
 
