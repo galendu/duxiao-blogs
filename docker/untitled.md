@@ -8,6 +8,18 @@ win10 安装包下载地址
 
 配置
 
+配置docker镜像加速器
+
+```text
+"https://iuj3d0uh.mirror.aliyuncs.com",
+"http://hub-mirror.c.163.com",
+"https://docker.mirrors.ustc.edu.cn",
+"https://dockerhub.azk8s.cn",
+"https://reg-mirror.qiniu.com",
+"https://fz5yth0r.mirror.aliyuncs.com",
+"https://registry.docker-cn.com"
+```
+
 构建容器镜像
 
 ![](../.gitbook/assets/image%20%283%29.png)
