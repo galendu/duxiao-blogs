@@ -45,14 +45,14 @@ git push -u origin --tags
 
 ## git常见问题汇总
 
-#### 1.常见不能推送文件，处理方式
+#### 🍗常见不能推送文件，处理方式
 
 ```text
 1.git pull origin master --allow-unrelated-histories //把远程仓库和本地同步，消除差异
 2.git push -f origin master //强制上传并覆盖
 ```
 
-#### 2.[gitlab中导入\*.bundle文件](gitlab-dao-ru-git-bundle-wen-jian.md)
+#### 🍗[gitlab中导入\*.bundle文件](gitlab-dao-ru-git-bundle-wen-jian.md)
 
-**3.**[**Git 拉取项目中指定文件或文件夹**](git-la-qu-xiang-mu-zhong-zhi-ding-wen-jian-huo-wen-jian-jia.md)\*\*\*\*
+**🍗**[**Git 拉取项目中指定文件或文件夹**](git-la-qu-xiang-mu-zhong-zhi-ding-wen-jian-huo-wen-jian-jia.md)\*\*\*\*
 
