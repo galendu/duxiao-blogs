@@ -37,10 +37,6 @@
 * [docker问题](docker/docker-wen-ti/README.md)
   * [Failed to get D-Bus connection: Operation not permitted](docker/docker-wen-ti/failed-to-get-d-bus-connection-operation-not-permitted.md)
 
-## golang
-
-* [start golang](golang/start-golang.md)
-
 ## kubernetes
 
 * [更新中](kubernetes/untitled.md)
