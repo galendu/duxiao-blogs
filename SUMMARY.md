@@ -10,8 +10,6 @@
   * [bash shell](linux/linux-fu-wu/bash-shell/README.md)
     * [expect脚本](linux/linux-fu-wu/bash-shell/expect.md)
   * [linux系统使用bbr🔥✌🏼](linux/linux-fu-wu/linux-xi-tong-shi-yong-bbr.md)
-  * [docker部署java服务](linux/linux-fu-wu/docker-bu-shu-java-fu-wu.md)
-  * [rabbitmq集群搭建](linux/linux-fu-wu/rabbitmq-ji-qun-da-jian.md)
   * [vpn搭建使用](linux/linux-fu-wu/vpn.md)
   * [查询域名解析](linux/linux-fu-wu/cha-xun-yu-ming-jie-xi/README.md)
     * [阶段一](linux/linux-fu-wu/cha-xun-yu-ming-jie-xi/ce-shi-1/README.md)
@@ -31,7 +29,9 @@
 
 ## docker
 
-* [docker搭建常见服务以及集群](docker/docker-da-jian-chang-jian-fu-wu-yi-ji-ji-qun.md)
+* [docker搭建常见服务以及集群](docker/docker-da-jian-chang-jian-fu-wu-yi-ji-ji-qun/README.md)
+  * [docker部署java服务](docker/docker-da-jian-chang-jian-fu-wu-yi-ji-ji-qun/docker-bu-shu-java-fu-wu.md)
+  * [rabbitmq集群搭建](docker/docker-da-jian-chang-jian-fu-wu-yi-ji-ji-qun/rabbitmq-ji-qun-da-jian.md)
 * [docker基础🎉](docker/untitled/README.md)
   * [python服务](docker/untitled/python-fu-wu.md)
 * [docker问题](docker/docker-wen-ti/README.md)
