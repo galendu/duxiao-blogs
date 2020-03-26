@@ -45,5 +45,6 @@
 
 ## devops
 
-* [gitlab](devops/gitlab.md)
+* [gitlab](devops/gitlab/README.md)
+  * [gitlab簡單使用](devops/gitlab/gitlab-jian-chan-shi-yong.md)
 
