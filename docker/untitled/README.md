@@ -1,8 +1,8 @@
 # docker基础🎉
 
-### 1.简介
+## 1.简介
 
-### 2.安装
+## 2.安装
 
 [win10 安装包下载地址](https://www.docker.com/get-started) 选择windows
 
@@ -49,7 +49,7 @@ systemctl restart docker
 
 `bash docker-install.sh`
 
-### 4.配置
+## 3.配置
 
 配置docker镜像加速器 vim /etc/docker/daemon.json
 
@@ -65,7 +65,7 @@ systemctl restart docker
 "https://registry.docker-cn.com"
 ```
 
-### 4.docker容器   _构建_   _**拉取**_   _运行_   过程如图所示
+## 4.docker容器   _构建_   _**拉取**_   _运行_   过程如图所示
 
 ![](../../.gitbook/assets/image%20%283%29.png)
 
