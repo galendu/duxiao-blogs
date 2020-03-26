@@ -6,6 +6,8 @@
 ## linux
 
 * [linux服务](linux/linux-fu-wu/README.md)
+  * [bash shell](linux/linux-fu-wu/bash-shell/README.md)
+    * [expect](linux/linux-fu-wu/bash-shell/expect.md)
   * [使用docker部署jetbrains/teamcity-server](linux/linux-fu-wu/shi-yong-docker-bu-shu-jetbrainsteamcityserver.md)
   * [linux系统使用bbr🔥✌🏼](linux/linux-fu-wu/linux-xi-tong-shi-yong-bbr.md)
   * [docker部署java服务](linux/linux-fu-wu/docker-bu-shu-java-fu-wu.md)
