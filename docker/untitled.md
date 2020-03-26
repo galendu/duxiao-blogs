@@ -8,6 +8,8 @@ win10 安装包下载地址
 
 linux 下安装docker
 
+`vim docker-install.sh`
+
 ```text
 #!/bin/bash
 yum install -y yum-utils device-mapper-persistent-data lvm2
@@ -16,26 +18,40 @@ yum install -y docker-ce-18.06.0.ce-3.el7
 mkdir -p /etc/docker
 tee /etc/docker/daemon.json <<-'EOF'
 {
+  "registry-mirrors": [
+                       "https://iuj3d0uh.mirror.aliyuncs.com",
+                       "https://iuj3d0uh.mirror.aliyuncs.com",
+                       "http://hub-mirror.c.163.com",
+                       "https://docker.mirrors.ustc.edu.cn",
+                       "https://dockerhub.azk8s.cn",
+                       "https://reg-mirror.qiniu.com",
+                       "https://fz5yth0r.mirror.aliyuncs.com",
+                       "https://registry.docker-cn.com"
+                        ],
   "graph": "/data/docker",
   "exec-opts": ["native.cgroupdriver=systemd"],
   "log-driver": "json-file",
   "log-opts": {
-  "max-size": "100m" },
+    "max-size": "100m",
+    "max-file": "3",
+    "labels": "production_status"
+  },
   "storage-driver": "overlay2"
 }
 EOF
+
 systemctl daemon-reload
-
 systemctl enable docker
-
 systemctl restart docker
 ```
 
+执行脚本安装docker
+
+`bash docker-install.sh`
+
 ### 配置
 
-vim /etc/docker/daemon.json
-
-配置docker镜像加速器
+配置docker镜像加速器 vim /etc/docker/daemon.json,docker-install.sh文件已配置,底下为镜像加速地址
 
 ```text
 "https://iuj3d0uh.mirror.aliyuncs.com",
