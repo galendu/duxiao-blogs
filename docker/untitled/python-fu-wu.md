@@ -22,3 +22,5 @@ WORKDIR /app
 CMD ["/usr/local/bin/uwsgi", "--ini=/etc/uwsgi/uwsgi . ini", "--die-on-term" ，"--need-app", "-- stats-http"]
 ```
 
+2.更新中.............
+
