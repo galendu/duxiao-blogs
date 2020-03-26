@@ -47,5 +47,5 @@
 
 * [gitlab](devops/gitlab/README.md)
   * [gitlab使用sonarqube进行代码扫描](devops/gitlab/gitlab-shi-yong-sonarqube-jin-hang-dai-ma-sao-miao.md)
-  * [gitlab簡單使用](devops/gitlab/gitlab-jian-chan-shi-yong.md)
+  * [gitlab简单使用](devops/gitlab/gitlab-jian-chan-shi-yong.md)
 
