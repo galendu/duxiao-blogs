@@ -58,7 +58,7 @@ exit
 
 ```text
 docker exec -it rabbitmqCluster01 bash
-rabbitmqctl set_policy-p/ha-all"^"'{"ha-mode":"all"}'
+rabbitmqctl set_policy ha-all"^"'{"ha-mode":"all"}'
 ```
 
 
