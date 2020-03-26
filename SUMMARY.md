@@ -9,7 +9,6 @@
   * [centos7系统的基础优化脚本](linux/linux-fu-wu/centos7-xi-tong-de-ji-chu-you-hua-jiao-ben.md)
   * [bash shell](linux/linux-fu-wu/bash-shell/README.md)
     * [expect脚本](linux/linux-fu-wu/bash-shell/expect.md)
-  * [使用docker部署jetbrains/teamcity-server](linux/linux-fu-wu/shi-yong-docker-bu-shu-jetbrainsteamcityserver.md)
   * [linux系统使用bbr🔥✌🏼](linux/linux-fu-wu/linux-xi-tong-shi-yong-bbr.md)
   * [docker部署java服务](linux/linux-fu-wu/docker-bu-shu-java-fu-wu.md)
   * [rabbitmq集群搭建](linux/linux-fu-wu/rabbitmq-ji-qun-da-jian.md)
