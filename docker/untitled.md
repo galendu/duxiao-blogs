@@ -1,12 +1,14 @@
 # docker基础🎉
 
-简介
+### 简介
 
-安装
+### 安装
 
 win10 安装包下载地址
 
-配置
+### 配置
+
+vim /etc/docker/daemon.json
 
 配置docker镜像加速器
 
@@ -20,9 +22,11 @@ win10 安装包下载地址
 "https://registry.docker-cn.com"
 ```
 
-构建容器镜像
+### 构建容器镜像
 
 ![](../.gitbook/assets/image%20%283%29.png)
+
+## Dockerfile文件构建
 
 ```text
 from flask import FROM python:3. 7- stretch
