@@ -23,3 +23,5 @@ cmztrix命令
 
 {% file src="../../.gitbook/assets/cmatrix.bin" caption="cmztrix可执行文件" %}
 
+[github源码地址](https://github.com/abishekvashok/cmatrix)
+
