@@ -6,13 +6,13 @@
 ## linux
 
 * [linux服务](linux/linux-fu-wu/README.md)
-  * [代码雨命令cmatrix](linux/linux-fu-wu/dai-ma-yu-ming-ling-cmatrix.md)
   * [centos7系统的基础优化脚本](linux/linux-fu-wu/centos7-xi-tong-de-ji-chu-you-hua-jiao-ben.md)
   * [bash shell](linux/linux-fu-wu/bash-shell/README.md)
     * [expect脚本](linux/linux-fu-wu/bash-shell/expect.md)
   * [linux系统使用bbr🔥✌🏼](linux/linux-fu-wu/linux-xi-tong-shi-yong-bbr.md)
   * [vpn搭建使用](linux/linux-fu-wu/vpn.md)
   * [查询域名解析](linux/linux-fu-wu/cha-xun-yu-ming-jie-xi.md)
+  * [代码雨命令cmatrix](linux/linux-fu-wu/dai-ma-yu-ming-ling-cmatrix.md)
   * [✨git使用方法](linux/linux-fu-wu/git-shi-yong-fang-fa/README.md)
     * [Git 拉取项目中指定文件或文件夹](linux/linux-fu-wu/git-shi-yong-fang-fa/git-la-qu-xiang-mu-zhong-zhi-ding-wen-jian-huo-wen-jian-jia.md)
     * [gitlab导入git bundle文件](linux/linux-fu-wu/git-shi-yong-fang-fa/gitlab-dao-ru-git-bundle-wen-jian.md)
