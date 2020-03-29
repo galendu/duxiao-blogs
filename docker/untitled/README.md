@@ -24,8 +24,7 @@ tee /etc/docker/daemon.json <<-'EOF'
                        "https://docker.mirrors.ustc.edu.cn",
                        "https://dockerhub.azk8s.cn",
                        "https://reg-mirror.qiniu.com",
-                       "https://fz5yth0r.mirror.aliyuncs.com",
-                       "https://registry.docker-cn.com"
+                       "https://fz5yth0r.mirror.aliyuncs.com"
                         ],
   "graph": "/data/docker",
   "exec-opts": ["native.cgroupdriver=systemd"],
