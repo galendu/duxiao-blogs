@@ -110,6 +110,7 @@ EOF
 
 # update soft
 yum -y update
+reboot
 ```
 
 
