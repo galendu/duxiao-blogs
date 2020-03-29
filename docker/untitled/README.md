@@ -20,7 +20,6 @@ tee /etc/docker/daemon.json <<-'EOF'
 {
   "registry-mirrors": [
                        "https://iuj3d0uh.mirror.aliyuncs.com",
-                       "https://iuj3d0uh.mirror.aliyuncs.com",
                        "http://hub-mirror.c.163.com",
                        "https://docker.mirrors.ustc.edu.cn",
                        "https://dockerhub.azk8s.cn",
