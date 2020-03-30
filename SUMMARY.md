@@ -33,6 +33,7 @@
 
 * [docker搭建常见服务以及集群](docker/docker-da-jian-chang-jian-fu-wu-yi-ji-ji-qun/README.md)
   * [docker部署nginx服务](docker/docker-da-jian-chang-jian-fu-wu-yi-ji-ji-qun/docker-bu-shu-nginx-fu-wu.md)
+  * [入口网关服务注册发现-Openresty 动态 upstream](docker/docker-da-jian-chang-jian-fu-wu-yi-ji-ji-qun/ru-kou-wang-guan-fu-wu-zhu-ce-fa-xian-openresty-dong-tai-upstream.md)
   * [docker部署java服务](docker/docker-da-jian-chang-jian-fu-wu-yi-ji-ji-qun/docker-bu-shu-java-fu-wu.md)
   * [rabbitmq集群搭建](docker/docker-da-jian-chang-jian-fu-wu-yi-ji-ji-qun/rabbitmq-ji-qun-da-jian.md)
 * [docker基础🎉](docker/untitled/README.md)
