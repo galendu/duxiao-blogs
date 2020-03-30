@@ -4,5 +4,5 @@
 docker run -itd --restart=always  --name=nginx -p 8080:80 -v /data/nginx/conf/:/etc/nginx/conf.d/  -v /data/nginx/html/:/usr/share/nginx/html  nginx
 ```
 
-{% file src="../../.gitbook/assets/index.html" caption="nginx配置文件" %}
+{% file src="../../.gitbook/assets/nginx.7z" caption="nginx相关文件" %}
 
