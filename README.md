@@ -6,7 +6,7 @@
 前言
 {% endhint %}
 
-我是一名系统运维工程师，我负责我们公司kubernetes平台和docker平台的维护工作，涉及服务的上线，迭代更新等等 🥂 
+我是一名系统运维工程师，主要负责公司kubernetes平台和docker平台的维护工作，涉及服务的上线，迭代更新等等 🥂 
 
 > 开源社区
 >
@@ -18,7 +18,11 @@
 
 > 博客社区
 >
-> [https://blog.csdn.net/](https://blog.csdn.net/)   CSDN
+> [https://blog.csdn.net/](https://blog.csdn.net/)   CSDNl
+
+> inux command
+>
+> [https://www.linuxde.ne](https://www.linuxde.ne) command
 
 
 
