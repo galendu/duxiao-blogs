@@ -4,5 +4,7 @@
 
 2.[docker部署java服务](docker-bu-shu-java-fu-wu.md)
 
+3.docker部署nginx服务
+
 2.更新中............
 

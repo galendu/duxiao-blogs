@@ -32,6 +32,7 @@
 ## docker
 
 * [docker搭建常见服务以及集群](docker/docker-da-jian-chang-jian-fu-wu-yi-ji-ji-qun/README.md)
+  * [docker部署nginx服务](docker/docker-da-jian-chang-jian-fu-wu-yi-ji-ji-qun/docker-bu-shu-nginx-fu-wu.md)
   * [docker部署java服务](docker/docker-da-jian-chang-jian-fu-wu-yi-ji-ji-qun/docker-bu-shu-java-fu-wu.md)
   * [rabbitmq集群搭建](docker/docker-da-jian-chang-jian-fu-wu-yi-ji-ji-qun/rabbitmq-ji-qun-da-jian.md)
 * [docker基础🎉](docker/untitled/README.md)
