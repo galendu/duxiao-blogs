@@ -20,7 +20,10 @@
 ### 4.LABEL 标签
 
 * 父镜像（基础镜像）中包含的标签在新镜像中任然存在，创建重复的标签，则最近应用的值将会覆盖之前设置的值。可以使用docker inspect查看镜像中的标签
-* `LABEL "com.example.vendor"="ACME Incorporated" LABEL com.example.label-with-value="foo" LABEL version="1.0" LABEL description="This text illustrates  that label-values can span multiple lines."`
+* `LABEL "com.example.vendor"="ACME Incorporated"`
+* `LABEL com.example.label-with-value="foo"` 
+* `LABEL version="1.0"` 
+* `LABEL description="This text illustrates  that label-values can span multiple lines."`
 * `LABEL multi.label1="value1" multi.label2="value2" other="value3"`
 * `LABEL multi.label1="value1" \`
 
