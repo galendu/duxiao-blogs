@@ -6,9 +6,11 @@
 >
 > OpenResty® 的目标是让你的Web服务直接跑在 [Nginx](https://openresty.org/cn/nginx.html) 服务内部，充分利用 [Nginx](https://openresty.org/cn/nginx.html) 的非阻塞 I/O 模型，不仅仅对 HTTP 客户端请求,甚至于对远程后端诸如 MySQL、PostgreSQL、Memcached 以及 Redis 等都进行一致的高性能响应。
 
-![](../../.gitbook/assets/image%20%284%29.png)
+### 1.这个方案中实现了3个接口，让 Openresty 支持添加、删除、监控 Upstream 后台节点的功能（如图接口1-接口3）
 
-编辑Dockerfile文件
+![](../../.gitbook/assets/image%20%285%29.png)
+
+### 2.编辑Dockerfile文件并构建镜像，使用
 
 ```text
 FROM openresty/openresty:latest
@@ -18,28 +20,37 @@ LABEL maintainer="os4top16 1610469455@qq.com"
 ADD openresty/ /usr/local/openresty/
 ```
 
-使用方式
-
-1.构建镜像
+构建镜像
 
 `docker build -t openresty-test:v1 .`
 
-2.运行
+运行
 
 ```text
 docker rm -f openresty
-docker run -itd --name=openresty -p 800:800 -v ./openresty/:/usr/local/openresty/ openresty-test:v1
+docker run -itd --name=openresty --restart=always -p 800:800 -v /data/openresty/:/usr/local/openresty/ openresty-test:v1
 ```
 
-{% file src="../../.gitbook/assets/openresty.zip" caption="openresty文件" %}
+### 3.详解
 
-3.详解
+openresty中包含三个脚本文件和openresty的主配置文件
 
-openresty中包含三个脚本文件，分别为srvcheck.lua upsops.lua upstream.lua 
+#### 添加节点 
 
+curl -v -X PUT '[http://192.168.0.59:800/ups?op=add&server=192.168.0.59:84](http://192.168.0.59:800/ups?op=add&server=192.168.0.59:84)'
 
+#### 删除节点
 
+curl -v -X PUT '[http://192.168.0.59:800/ups?op=del&server=192.168.0.59:84](http://192.168.0.59:800/ups?op=add&server=192.168.0.59:84)'
 
+#### 监控节点
 
+curl -v -X PUT '[http://192.168.0.59:800/ups?op=status&server=192.168.0.59:84](http://192.168.0.59:800/ups?op=add&server=192.168.0.59:84)' 
 
+源配置文件只添加了三个节点，新添加节点需要在nginx.conf文件  
+`server 192.168.0.59:86;`
+
+![](../../.gitbook/assets/image%20%284%29.png)
+
+{% file src="../../.gitbook/assets/openresty.zip" caption="openresty文件下载" %}
 
