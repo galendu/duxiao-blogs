@@ -31,7 +31,7 @@
 
 ## docker
 
-* [dockerfile](docker/dockerfile.md)
+* [dockerfile命令](docker/dockerfile.md)
 * [docker搭建常见服务以及集群](docker/docker-da-jian-chang-jian-fu-wu-yi-ji-ji-qun/README.md)
   * [docker部署nginx服务](docker/docker-da-jian-chang-jian-fu-wu-yi-ji-ji-qun/docker-bu-shu-nginx-fu-wu.md)
   * [入口网关服务注册发现-Openresty 动态 upstream](docker/docker-da-jian-chang-jian-fu-wu-yi-ji-ji-qun/ru-kou-wang-guan-fu-wu-zhu-ce-fa-xian-openresty-dong-tai-upstream.md)

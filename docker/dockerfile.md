@@ -1,4 +1,4 @@
-# dockerfile
+# dockerfile命令
 
 ### 1.了解ARG和FROM之间的交互方式
 
