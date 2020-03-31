@@ -65,7 +65,7 @@ systemctl restart docker
 
 ## 4.docker容器   _构建_   _**拉取**_   _运行_   过程如图所示
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 ## 5.常见服务镜像dockerfile文件
 
