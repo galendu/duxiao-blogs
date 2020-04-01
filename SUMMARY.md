@@ -5,8 +5,6 @@
 
 ## linux
 
-* [shell脚本](linux/shell-jiao-ben.md)
-* [linux base commands 100](linux/linux-base-commands-100.md)
 * [linux服务](linux/linux-fu-wu/README.md)
   * [Untitled](linux/linux-fu-wu/untitled.md)
   * [centos7系统的基础优化脚本](linux/linux-fu-wu/centos7-xi-tong-de-ji-chu-you-hua-jiao-ben.md)
@@ -42,10 +40,6 @@
   * [rabbitmq集群搭建](docker/docker-da-jian-chang-jian-fu-wu-yi-ji-ji-qun/rabbitmq-ji-qun-da-jian.md)
 * [docker问题](docker/docker-wen-ti/README.md)
   * [Failed to get D-Bus connection: Operation not permitted](docker/docker-wen-ti/failed-to-get-d-bus-connection-operation-not-permitted.md)
-
-## kubernetes
-
-* [更新中](kubernetes/untitled.md)
 
 ## devops
 
