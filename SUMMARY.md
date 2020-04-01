@@ -6,7 +6,6 @@
 ## linux
 
 * [linux服务](linux/linux-fu-wu/README.md)
-  * [Untitled](linux/linux-fu-wu/untitled.md)
   * [centos7系统的基础优化脚本](linux/linux-fu-wu/centos7-xi-tong-de-ji-chu-you-hua-jiao-ben.md)
   * [bash shell](linux/linux-fu-wu/bash-shell/README.md)
     * [expect脚本](linux/linux-fu-wu/bash-shell/expect.md)
@@ -20,7 +19,6 @@
 
 ## windows
 
-* [安装choco服务](windows/an-zhuang-choco-fu-wu.md)
 * [Windows10中常用快捷键](windows/windows10-chang-yong-kuai-jie-jian.md)
 * [网站收录](windows/wang-zhan-shou-lu/README.md)
   * [如何让你的网站被百度收录](windows/wang-zhan-shou-lu/bai-du-shou-lu.md)
